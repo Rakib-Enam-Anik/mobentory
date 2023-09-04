@@ -20,7 +20,7 @@ function Navbar() {
     <a href='#' className='logo'>
         <image src={logo} alt=''/>
     </a>
-    <input type="checkbox" className='menu-btn' id='menu-btn' />
+    <input type='checkbox' className='menu-btn' id='menu-btn' />
     <label className='menu-icon' for='menu-btn'>
         <span className='nav-icon'></span>
     </label>
