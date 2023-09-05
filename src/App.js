@@ -1,4 +1,3 @@
-import './index.css';
 import React from 'react';
 import Header from './Components/Header';
 import Feature from './Components/Feature';
